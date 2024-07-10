@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T08:16:25.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qRQL-KOZyviEg__FYLCC" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T08:19:22.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wlRORY85FFzHGLXk0IbZ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
-    <mxGraphModel dx="2150" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,37 +268,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-83" value="成熟模式图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1280" width="80" height="40" as="geometry" />
+          <mxGeometry x="-120" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-84" target="LknEf1gBUkoIw8FcQfvM-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-84" target="LknEf1gBUkoIw8FcQfvM-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-84" target="LknEf1gBUkoIw8FcQfvM-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-84" value="成长规律" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1360" width="80" height="40" as="geometry" />
+          <mxGeometry x="-280" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-86" target="LknEf1gBUkoIw8FcQfvM-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-86" value="依赖期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1200" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-88" target="LknEf1gBUkoIw8FcQfvM-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-88" value="互赖期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1360" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-89" target="LknEf1gBUkoIw8FcQfvM-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-89" value="独立期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1280" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-94" value="依靠别人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1200" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-96" value="单枪匹马" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1280" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-98" value="群策群力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1360" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-101" value="情感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-102" value="生理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-103" value="智力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
