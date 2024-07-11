@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T07:32:29.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wbxehan79zB5vMPDGOsU" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T07:33:45.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4Ff5kslHO817fJt1FUrT" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
-    <mxGraphModel dx="3242" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
         <mxCell id="LknEf1gBUkoIw8FcQfvM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-71" target="LknEf1gBUkoIw8FcQfvM-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LknEf1gBUkoIw8FcQfvM-71" value="技巧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-71" value="技巧/方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-72" target="LknEf1gBUkoIw8FcQfvM-64">
@@ -244,7 +244,7 @@
             <mxPoint x="80" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LknEf1gBUkoIw8FcQfvM-72" value="知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-72" value="知识/原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-74" target="LknEf1gBUkoIw8FcQfvM-64">
@@ -252,7 +252,7 @@
             <mxPoint x="90" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LknEf1gBUkoIw8FcQfvM-74" value="意愿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LknEf1gBUkoIw8FcQfvM-74" value="意愿/效能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LknEf1gBUkoIw8FcQfvM-83" target="LknEf1gBUkoIw8FcQfvM-84">
@@ -544,6 +544,17 @@
         </mxCell>
         <mxCell id="LknEf1gBUkoIw8FcQfvM-170" value="投资“人”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IQXa3f0hBMf1JwmWLO_o" name="第 2 页">
+    <mxGraphModel dx="1549" dy="-709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7KPhrul7_XapFS50ZpqL-1" value="产能产出模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
