@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T09:37:36.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vSOO9SiudH7y7CfEnBEx" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-11T09:39:54.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rQ6jE6SakarktswG-erd" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -747,7 +747,7 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-62" value="直接控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-63" value="见解控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-63" value="间接控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-64" value="无法控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
