@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T07:42:27.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UHAa3CzpkhzoJJlhtn7L" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-11T07:52:05.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="D5ih5iAOTTBwN7N6bSUl" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -559,7 +559,7 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KPhrul7_XapFS50ZpqL-1" target="QlGwpNa8EiEPJ3BQcJTB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7KPhrul7_XapFS50ZpqL-1" value="自我觉察" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7KPhrul7_XapFS50ZpqL-1" value="自我觉察/意识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-5" value="基于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-1" target="QlGwpNa8EiEPJ3BQcJTB-4">
@@ -568,7 +568,7 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-6" value="受制于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-1" target="QlGwpNa8EiEPJ3BQcJTB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-1" value="自我意识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-1" value="自我思维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-3" target="QlGwpNa8EiEPJ3BQcJTB-7">
@@ -582,6 +582,15 @@
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-3" value="社会&amp;amp;环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-4" target="QlGwpNa8EiEPJ3BQcJTB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-4" target="QlGwpNa8EiEPJ3BQcJTB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-4" target="QlGwpNa8EiEPJ3BQcJTB-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-4" value="原则&amp;amp;现实" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1360" width="80" height="40" as="geometry" />
@@ -604,6 +613,9 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-9" value="心理决定论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-13" target="QlGwpNa8EiEPJ3BQcJTB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-13" value="刺激-回应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
@@ -625,8 +637,40 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-19" value="独立意志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-20" value="人类独有能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-32" value="自由选择" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-20" target="QlGwpNa8EiEPJ3BQcJTB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-20" value="人类独有&lt;br&gt;天赋&amp;amp;潜力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-29" value="消极被动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-31" target="QlGwpNa8EiEPJ3BQcJTB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-31" value="积极主动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-34" target="QlGwpNa8EiEPJ3BQcJTB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlGwpNa8EiEPJ3BQcJTB-34" target="QlGwpNa8EiEPJ3BQcJTB-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1380" />
+              <mxPoint x="200" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-34" value="为自己&lt;br&gt;人生负责" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-38" value="行为取决于&lt;br&gt;自身抉择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-41" value="主动改造有利外界环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
