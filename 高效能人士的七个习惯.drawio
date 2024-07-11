@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T08:02:38.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Caw--WXo2Z2b344Ymp1y" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-11T08:02:52.882Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pGeIQtg2ikzPoLw3KoOK" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -708,7 +708,7 @@
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-52" value="被动受&lt;br&gt;外部环境控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-54" value="情绪化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QlGwpNa8EiEPJ3BQcJTB-54" value="情绪化/&lt;br&gt;推卸责任" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QlGwpNa8EiEPJ3BQcJTB-56" value="消极性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
