@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T08:22:45.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a196vDXsMJNLBOCcv9q-" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-12T08:32:12.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tLM6OzwY_yCaaxXzceos" version="24.6.4" type="github" pages="2">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
         <mxCell id="TGLrBK5DSmMkstPWKhvz-1" value="行动建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TGLrBK5DSmMkstPWKhvz-2" value="觉察自己的消极回答频率有多高？&lt;br&gt;比如“但愿”、“我办不到”、“我不得不”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGLrBK5DSmMkstPWKhvz-2" value="觉察到自己的消极回答，&lt;br&gt;比如“但愿”、“我办不到”、“我不得不”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="2120" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGLrBK5DSmMkstPWKhvz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGLrBK5DSmMkstPWKhvz-3" target="TGLrBK5DSmMkstPWKhvz-2">
@@ -843,7 +843,7 @@
         <mxCell id="TGLrBK5DSmMkstPWKhvz-5" value="找到困境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="2200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TGLrBK5DSmMkstPWKhvz-9" value="找到或想象生活工作中遇到什么会&lt;br&gt;让自己变得消极？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGLrBK5DSmMkstPWKhvz-9" value="找到或想象生活工作中因为遇到什么会&lt;br&gt;让自己变得消极？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="2200" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGLrBK5DSmMkstPWKhvz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TGLrBK5DSmMkstPWKhvz-11" target="TGLrBK5DSmMkstPWKhvz-13">
