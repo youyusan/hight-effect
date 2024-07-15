@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:13:21.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="R717vXvv30Bx92fIgIJ8" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:17:34.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hZkoBnWgAlt1XZs_3YD-" version="24.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -877,7 +877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="urAxXQfAoESWwxORKYWi" name="第 3 页">
-    <mxGraphModel dx="2639" dy="-687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2553" dy="-729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -888,7 +888,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-1" value="以终为始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="-720" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-2" value="人生目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-880" y="1480" width="80" height="40" as="geometry" />
@@ -1015,12 +1015,14 @@
           <mxGeometry x="80" y="1460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1500" />
+              <mxPoint x="520" y="1580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wYS3HmVwz14Jexfs_aXl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-59" value="个人使命&lt;br&gt;宣言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1029,29 +1031,45 @@
         <mxCell id="wYS3HmVwz14Jexfs_aXl-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-61" target="wYS3HmVwz14Jexfs_aXl-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-61" target="wYS3HmVwz14Jexfs_aXl-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1580" />
+              <mxPoint x="680" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-61" value="贡献/成就" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-62" target="wYS3HmVwz14Jexfs_aXl-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-62" target="wYS3HmVwz14Jexfs_aXl-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1420" />
+              <mxPoint x="680" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-62" value="品德" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wYS3HmVwz14Jexfs_aXl-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-63" target="wYS3HmVwz14Jexfs_aXl-68">
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-63" target="wYS3HmVwz14Jexfs_aXl-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-63" value="价值观/原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-67" value="想要成为什么样的人？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1400" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wYS3HmVwz14Jexfs_aXl-68" value="需要哪些行为准则约束？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-69" value="做出什么样的贡献？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="1650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-75" value="以正确原则&lt;br&gt;为中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
