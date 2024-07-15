@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:17:34.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hZkoBnWgAlt1XZs_3YD-" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:27:46.856Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pgyW8XnnE0sKrr63VCvJ" version="24.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -877,7 +877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="urAxXQfAoESWwxORKYWi" name="第 3 页">
-    <mxGraphModel dx="2553" dy="-729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2947" dy="-536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,6 +993,12 @@
         <mxCell id="wYS3HmVwz14Jexfs_aXl-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-49" target="wYS3HmVwz14Jexfs_aXl-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-49" target="wYS3HmVwz14Jexfs_aXl-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-49" target="wYS3HmVwz14Jexfs_aXl-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-49" value="人生剧本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1023,6 +1029,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-59" target="wYS3HmVwz14Jexfs_aXl-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-59" value="个人使命&lt;br&gt;宣言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1068,8 +1080,32 @@
         <mxCell id="wYS3HmVwz14Jexfs_aXl-69" value="做出什么样的贡献？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1650" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-75" target="wYS3HmVwz14Jexfs_aXl-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-75" target="wYS3HmVwz14Jexfs_aXl-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-75" value="以正确原则&lt;br&gt;为中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-80" value="真理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-81" value="永恒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-84" value="心灵演练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-85" value="扩宽思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-91" value="人生角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-93" value="家庭&amp;amp;组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
