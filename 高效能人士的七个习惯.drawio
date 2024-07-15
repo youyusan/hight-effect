@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:04:33.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jjvLLybcystdwvAiZEio" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:06:19.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="I-VHeLmx0kA-87Z45yjg" version="24.6.5" type="github" pages="3">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -877,7 +877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="urAxXQfAoESWwxORKYWi" name="第 3 页">
-    <mxGraphModel dx="2870" dy="-574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3131" dy="-446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
         <mxCell id="wYS3HmVwz14Jexfs_aXl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-19" target="wYS3HmVwz14Jexfs_aXl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYS3HmVwz14Jexfs_aXl-42" value="受制于他人设置的" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-19" target="wYS3HmVwz14Jexfs_aXl-40">
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-42" value="受制于他人的" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-19" target="wYS3HmVwz14Jexfs_aXl-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYS3HmVwz14Jexfs_aXl-19" target="wYS3HmVwz14Jexfs_aXl-43">
@@ -992,6 +992,9 @@
         </mxCell>
         <mxCell id="wYS3HmVwz14Jexfs_aXl-46" value="自我意识强大" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYS3HmVwz14Jexfs_aXl-49" value="人生剧本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
