@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T07:40:18.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="C77aiR3LTQGzcrE_6x1H" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-24T07:42:41.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3OI2aQNNvLDl469umI1D" version="24.7.1" type="github" pages="4">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1281,10 +1281,10 @@
           <mxGeometry x="320" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sSo85lqacvC-mtzMYkwN-29" value="周计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1240" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sSo85lqacvC-mtzMYkwN-31" value="以人为本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-31" value="以人为本/&lt;br&gt;人比事重要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sSo85lqacvC-mtzMYkwN-33" value="灵活变通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1080" width="80" height="40" as="geometry" />
