@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T07:44:49.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Zk5g0AudCPcxiSNUq6du" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-24T07:47:06.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z905LCNwarbJlMByaWxY" version="24.7.1" type="github" pages="4">
   <diagram name="第 1 页" id="Sl7Qwl_e1ZX8DYcozZXe">
     <mxGraphModel dx="2289" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1111,7 +1111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mlzoh_mebHJR7AigwqXI" name="第 4 页">
-    <mxGraphModel dx="1961" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1223,6 +1223,9 @@
         <mxCell id="sSo85lqacvC-mtzMYkwN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSo85lqacvC-mtzMYkwN-9" target="sSo85lqacvC-mtzMYkwN-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sSo85lqacvC-mtzMYkwN-9" target="sSo85lqacvC-mtzMYkwN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sSo85lqacvC-mtzMYkwN-9" value="在事情变得紧急前先做重要的事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1304,8 +1307,20 @@
         <mxCell id="sSo85lqacvC-mtzMYkwN-43" value="每日调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1800" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-51" value="可以" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sSo85lqacvC-mtzMYkwN-48" target="sSo85lqacvC-mtzMYkwN-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-53" value="避免" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSo85lqacvC-mtzMYkwN-48" target="sSo85lqacvC-mtzMYkwN-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sSo85lqacvC-mtzMYkwN-48" value="授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-50" value="团队成长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sSo85lqacvC-mtzMYkwN-52" value="事必躬亲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
