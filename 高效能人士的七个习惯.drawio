@@ -1480,10 +1480,16 @@
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-27" target="6ltPs6wKrIk78wpVa2Hk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-40" value="支出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-27" target="6ltPs6wKrIk78wpVa2Hk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-27" value="情感账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-30" target="6ltPs6wKrIk78wpVa2Hk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-30" target="6ltPs6wKrIk78wpVa2Hk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-30" value="信任" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1492,8 +1498,20 @@
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-31" target="6ltPs6wKrIk78wpVa2Hk-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-31" target="6ltPs6wKrIk78wpVa2Hk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-31" value="安全感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-39" value="增加" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-36" target="6ltPs6wKrIk78wpVa2Hk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-36" value="礼貌、诚实&lt;br&gt;仁慈、信用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-37" value="粗鲁、轻蔑&lt;br&gt;威逼、失信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
