@@ -1555,7 +1555,10 @@
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-47" value="明确期望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6ltPs6wKrIk78wpVa2Hk-48" value="投资方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-48" target="6ltPs6wKrIk78wpVa2Hk-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-48" value="正直诚信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-49" target="6ltPs6wKrIk78wpVa2Hk-67">
@@ -1576,10 +1579,16 @@
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-51" value="理解他人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6ltPs6wKrIk78wpVa2Hk-52" value="投资方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-52" target="6ltPs6wKrIk78wpVa2Hk-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-52" value="勇于致歉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6ltPs6wKrIk78wpVa2Hk-53" value="投资方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-53" target="6ltPs6wKrIk78wpVa2Hk-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-53" value="无条件的爱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-63" value="理解他人立场&amp;amp;要事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1593,6 +1602,15 @@
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-70" value="明确可预期性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-72" value="平等对待&lt;br&gt;不背后抨击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-74" value="真诚道歉&lt;br&gt;改过不吝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-76" value="无损于爱心&lt;br&gt;的付出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
