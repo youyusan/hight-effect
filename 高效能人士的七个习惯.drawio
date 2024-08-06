@@ -1474,6 +1474,9 @@
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-26" value="本性" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-24" target="6ltPs6wKrIk78wpVa2Hk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-42" value="需要" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-24" target="6ltPs6wKrIk78wpVa2Hk-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-24" value="良好人际关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1512,6 +1515,12 @@
         </mxCell>
         <mxCell id="6ltPs6wKrIk78wpVa2Hk-37" value="粗鲁、轻蔑&lt;br&gt;威逼、失信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-43" value="建立" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ltPs6wKrIk78wpVa2Hk-41" target="6ltPs6wKrIk78wpVa2Hk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ltPs6wKrIk78wpVa2Hk-41" value="时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
