@@ -1616,7 +1616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mELlL0_X9By32OnKjG_6" name="双赢思维">
-    <mxGraphModel dx="1621" dy="-755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="-682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1754,6 +1754,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-40" target="sjXUEw9uMGbyYICmcv8w-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-40" target="sjXUEw9uMGbyYICmcv8w-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-40" value="双赢思维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1923,6 +1926,38 @@
         </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-96" value="为结果负责&lt;br&gt;&amp;amp;自我评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="2400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-99" target="sjXUEw9uMGbyYICmcv8w-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="2740" />
+              <mxPoint x="-440" y="2620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-99" target="sjXUEw9uMGbyYICmcv8w-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-99" target="sjXUEw9uMGbyYICmcv8w-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-99" target="sjXUEw9uMGbyYICmcv8w-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-99" value="双赢过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="2720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-101" value="对方立场&lt;br&gt;看待问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-103" value="认清主要问题和顾虑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-105" value="确定大家能接受的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-107" value="找到实现结果的可能路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
