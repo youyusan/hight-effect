@@ -1677,23 +1677,59 @@
         <mxCell id="sjXUEw9uMGbyYICmcv8w-6" value="好聚好散" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1680" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-13" target="sjXUEw9uMGbyYICmcv8w-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-13" value="双赢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-15" target="sjXUEw9uMGbyYICmcv8w-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-15" value="赢输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-17" target="sjXUEw9uMGbyYICmcv8w-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-17" value="输赢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-19" target="sjXUEw9uMGbyYICmcv8w-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-19" value="双输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-21" target="sjXUEw9uMGbyYICmcv8w-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjXUEw9uMGbyYICmcv8w-21" value="赢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sjXUEw9uMGbyYICmcv8w-23" value="无交往" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjXUEw9uMGbyYICmcv8w-23" target="sjXUEw9uMGbyYICmcv8w-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-23" value="无交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-25" value="寻求双边利益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-26" value="以势压人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-27" value="取悦心态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-28" value="固执己见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-33" value="自我满足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjXUEw9uMGbyYICmcv8w-35" value="放弃交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
