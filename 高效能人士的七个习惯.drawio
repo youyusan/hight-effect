@@ -1963,7 +1963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2Bq-29-ERhIezDQKkZ6s" name="知彼解己">
-    <mxGraphModel dx="1961" dy="-580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="-482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1982,6 +1982,9 @@
         <mxCell id="DRh6GR-Vyg6H8J5Qquc--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DRh6GR-Vyg6H8J5Qquc--1" target="DRh6GR-Vyg6H8J5Qquc--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DRh6GR-Vyg6H8J5Qquc--106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DRh6GR-Vyg6H8J5Qquc--1" target="DRh6GR-Vyg6H8J5Qquc--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DRh6GR-Vyg6H8J5Qquc--1" value="知彼解己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="2680" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1995,6 +1998,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRh6GR-Vyg6H8J5Qquc--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DRh6GR-Vyg6H8J5Qquc--3" target="DRh6GR-Vyg6H8J5Qquc--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRh6GR-Vyg6H8J5Qquc--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="DRh6GR-Vyg6H8J5Qquc--3" target="DRh6GR-Vyg6H8J5Qquc--104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRh6GR-Vyg6H8J5Qquc--3" value="理解别人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2215,6 +2221,15 @@
         </mxCell>
         <mxCell id="DRh6GR-Vyg6H8J5Qquc--100" value="建立情感账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="2760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DRh6GR-Vyg6H8J5Qquc--109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DRh6GR-Vyg6H8J5Qquc--104" target="DRh6GR-Vyg6H8J5Qquc--107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRh6GR-Vyg6H8J5Qquc--104" value="影响圈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="2520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DRh6GR-Vyg6H8J5Qquc--107" value="通过理解别人来扩大影响圈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="2440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
